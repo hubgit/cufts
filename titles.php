@@ -1,6 +1,6 @@
 <?php
 
-// 965,556 rows, 616,872 rows with ISSNs or eISSNs, 76,082 distinct items with ISSN or E-ISSN
+// 965,556 rows; 616,872 rows with ISSNs or eISSNs; 76,082 distinct items with ISSN or E-ISSN.
 
 if (!file_exists('config.ini')) {
     exit('config.ini file not found' . "\n");
